@@ -1,0 +1,8 @@
+asyncio==4.0.0
+pyaes==1.6.1
+pyasn1==0.6.2
+python-dotenv==1.2.1
+pytz==2025.2
+rsa==4.9.1
+schedule==1.2.2
+Telethon==1.42.0
